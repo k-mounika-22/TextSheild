@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Theme for MainActivity to include action bar -->
+    <style name="Theme.TextShield.MainActivity" parent="Theme.TextShield">
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowNoTitle">false</item>
+    </style>
+</resources>

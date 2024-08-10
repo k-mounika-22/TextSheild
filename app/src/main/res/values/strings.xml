@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextShield</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="send">Send</string>
+    <string name="write_message_here">Write message here</string>
+    <string name="enter_the_key">Enter the Key[0 – 9]</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="paste_type_message_to_be_decrypted">Paste/Type message to be decrypted</string>
+    <string name="decrypt_message">Decrypt Message</string>
+</resources>
